@@ -8,5 +8,16 @@ print(course_Name[0:])
 print(course_Name[:3])
 print(course_Name[:])
 
+# TO represnet comment 
+
 new_Course = "Python \"Programing is fun\" "
 print(new_Course)
+
+# Some escape sequences:
+# \\ ----> \
+# \" ----> "
+# \' ----> '
+# \n-----> To create new line.
+
+
+
