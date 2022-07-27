@@ -20,9 +20,22 @@ print(new_Course)
 # \n-----> To create new line.
 
 # Formating string
-
 first = "Nayon"
 last = "Mazumder"
-
 full = f"{first} {last}"
 print(full)
+
+
+# String method
+
+course = "   python programming "
+print(course.upper())
+print(course.lower())
+print(course.strip())
+print(course.find("Pro"))
+print(course.replace("p","j"))
+print(course.__len__())
+print(course.title())
+print("Pro" in course)
+print("Swift" not in course)
+
