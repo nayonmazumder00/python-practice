@@ -19,5 +19,10 @@ print(new_Course)
 # \' ----> '
 # \n-----> To create new line.
 
+# Formating string
 
+first = "Nayon"
+last = "Mazumder"
 
+full = f"{first} {last}"
+print(full)
