@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
    int std[40],quik,i,size,value;
-   printf("enter no of elements in array of stds:");
+   printf("enter no of elements in array of stds: ");
    scanf("%d",&size);
    printf("enter %d elements are:\n",size);
    for(i=0;i<size;i++)

@@ -21,6 +21,8 @@ int main()
 }
 long mulTwoNumbers(long *n1, long *n2) 
 {
-   
-   return (*n1 )*(*n2);
+   long mul;
+   mul= (*n1 )*(*n2);
+   return mul;
+
 }
